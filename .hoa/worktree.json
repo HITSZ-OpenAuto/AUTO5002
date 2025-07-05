@@ -1,0 +1,97 @@
+{
+  ".github/workflows/trigger-workflow.yml": {
+    "size": 2657,
+    "time": 1751724740,
+    "hash": "7a5445ee343692451ed37ff1039cc41089254a8e"
+  },
+  "LICENSE": {
+    "size": 20844,
+    "time": 1718130638,
+    "hash": "f3b26b16fe4d1e9c6c3a7c9c4013c3705594bcd2"
+  },
+  "README.md": {
+    "size": 887,
+    "time": 1735999001,
+    "hash": "bef695432ea94dc16aa681b46a8ce7825ab640c6"
+  },
+  "assignments/2024-tintin-ARARMAX仿真.zip": {
+    "size": 63218,
+    "time": 1730010918,
+    "hash": "21c93da864b1eedd9b58ac577d5359a7e37fc732"
+  },
+  "assignments/2024-tintin-ARMAX仿真.zip": {
+    "size": 58474,
+    "time": 1730010918,
+    "hash": "21c93da864b1eedd9b58ac577d5359a7e37fc732"
+  },
+  "assignments/2024-tintin-ARMAX辨识ARARX辨识.zip": {
+    "size": 3355413,
+    "time": 1730010918,
+    "hash": "21c93da864b1eedd9b58ac577d5359a7e37fc732"
+  },
+  "assignments/2024-tintin-ARX时变系统带遗忘因子递推最小二乘辨识.zip": {
+    "size": 1403281,
+    "time": 1730010918,
+    "hash": "21c93da864b1eedd9b58ac577d5359a7e37fc732"
+  },
+  "assignments/2024-tintin-ARX系统辨识.zip": {
+    "size": 75224,
+    "time": 1730010918,
+    "hash": "21c93da864b1eedd9b58ac577d5359a7e37fc732"
+  },
+  "assignments/README.md": {
+    "size": 39,
+    "time": 1718130638,
+    "hash": "f3b26b16fe4d1e9c6c3a7c9c4013c3705594bcd2"
+  },
+  "exams/JN-SI-EP-W.pdf": {
+    "size": 3132983,
+    "time": 1730010918,
+    "hash": "21c93da864b1eedd9b58ac577d5359a7e37fc732"
+  },
+  "exams/README.md": {
+    "size": 54,
+    "time": 1718130638,
+    "hash": "f3b26b16fe4d1e9c6c3a7c9c4013c3705594bcd2"
+  },
+  "exams/b1去年系统辨识考题.pdf": {
+    "size": 380169,
+    "time": 1730010918,
+    "hash": "21c93da864b1eedd9b58ac577d5359a7e37fc732"
+  },
+  "exams/电子版答案.pdf": {
+    "size": 89771,
+    "time": 1730010918,
+    "hash": "21c93da864b1eedd9b58ac577d5359a7e37fc732"
+  },
+  "labs/README.md": {
+    "size": 395,
+    "time": 1718130638,
+    "hash": "f3b26b16fe4d1e9c6c3a7c9c4013c3705594bcd2"
+  },
+  "notes/README.md": {
+    "size": 42,
+    "time": 1718130638,
+    "hash": "f3b26b16fe4d1e9c6c3a7c9c4013c3705594bcd2"
+  },
+  "notes/SI-Summary.pdf": {
+    "size": 136136,
+    "time": 1730010918,
+    "hash": "21c93da864b1eedd9b58ac577d5359a7e37fc732"
+  },
+  "notes/系统辨识_mao.pdf": {
+    "size": 18360233,
+    "time": 1730010918,
+    "hash": "21c93da864b1eedd9b58ac577d5359a7e37fc732"
+  },
+  "slides/README.md": {
+    "size": 58,
+    "time": 1718130638,
+    "hash": "f3b26b16fe4d1e9c6c3a7c9c4013c3705594bcd2"
+  },
+  "tag.txt": {
+    "size": 89,
+    "time": 1735999001,
+    "hash": "bef695432ea94dc16aa681b46a8ce7825ab640c6"
+  }
+}
