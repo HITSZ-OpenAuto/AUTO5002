@@ -1,0 +1,57 @@
+ID: "AUTO5002"
+SimilarID: []
+Name: "系统辨识"
+CourseProperty:
+  Major:
+    - Year: "2023_2024"
+      Name: [ "自动化" ]
+      Degree: "本"
+  GradeSemesters:
+    - Grade: "大三"
+      Semester: "春"
+  CourseType: "限选"
+  CourseID: "AUTO5002"
+  CourseName: "系统辨识"
+  Credit: "2.0"
+  CourseHour: "32.0"
+  GPAInfluence: "GPA"
+  GroupCourse:
+    Link: ""
+    Desc: ""
+    Name: ""
+    Ids: ["", "", ""]
+  GradeComposition:
+    - Name: "作业"
+      Percentage: "40"
+    - Name: "期末考试"
+      Percentage: "60"
+  CourseHourComposition:
+    - Name: "授课"
+      Hour: "32"
+
+  Major:
+    - Year: "2024_2025"
+      Name: [  ]
+      Degree: "本"
+  GradeSemesters:
+    - Grade: ""
+      Semester: "春"
+  CourseType: "学位课"
+  CourseID: "AUTO5002"
+  CourseName: "系统辨识"
+  Credit: "2.0"
+  CourseHour: "32.0"
+  GPAInfluence: "GPA"
+  GroupCourse:
+    Link: ""
+    Desc: ""
+    Name: ""
+    Ids: ["", "", ""]
+  GradeComposition:
+    - Name: "作业"
+      Percentage: "40"
+    - Name: "期末考试"
+      Percentage: "60"
+  CourseHourComposition:
+    - Name: "授课"
+      Hour: "32"
