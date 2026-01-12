@@ -1,0 +1,31 @@
+# 注意：成绩构成信息来源于 README 中的 HTML 注释，可能不准确或已过时。
+course_name: "系统辨识"
+course_code: "AUTO5002"
+notices: ""
+grading:
+  0000: "作业(40%) + 期末考试(60%)"
+teachers:
+  - name: "吴爱国"
+    reviews:
+      - content: |
+          对于这门课程，纯板书，不用 PPT；并且不戴麦（2024 年情况），所以回放无声，需要到线下去听讲。
+          其授课风格可参考 "自动控制理论B" 课程。
+        submitter:
+          name: ""
+          link: ""
+textbooks: []
+online_resources: []
+about_course: []
+about_exam: []
+study_advice: []
+schedule: []
+related_links:
+  - content: "自动控制理论B 课程页面 (用于参考吴爱国老师授课风格): https://hoa.moe/docs/junior-spring/auto3001b/"
+    submitter:
+      name: ""
+      link: ""
+misc:
+  - content: "讲义放在校内网盘供大家下载。"
+    submitter:
+      name: ""
+      link: ""
