@@ -8,6 +8,7 @@
 
 ## 授课教师
 
+<!-- TOML-LECTURERS: part="items" -->
 - 吴爱国
   <!-- TOML-ITEM: id="review-吴爱国-1" has_author="true" -->
   - 授课风格：见[自动控制理论B](https://hoa.moe/docs/junior-spring/auto3001b/)课程页面。

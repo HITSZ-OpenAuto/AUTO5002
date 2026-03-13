@@ -1,20 +1,19 @@
 course_name = "系统辨识"
-repo_type = "normal"
 course_code = "AUTO5002"
+repo_type = "normal"
 
-description = ""
+[lecturers]
 
-[[lecturers]]
+[[lecturers.items]]
 name = "吴爱国"
 
-[[lecturers.reviews]]
+[[lecturers.items.reviews]]
 content = "授课风格：见[自动控制理论B](https://hoa.moe/docs/junior-spring/auto3001b/)课程页面。"
 author = { name = "", link = "", date = "" }
 
-[[lecturers.reviews]]
+[[lecturers.items.reviews]]
 content = "对于这门课程，纯板书，不用 PPT；并且不戴麦（2024 年情况），所以回放无声，需要到线下去听讲。"
 author = { name = "", link = "", date = "" }
-
 
 [[sections]]
 title = "关于考试"
@@ -22,7 +21,6 @@ title = "关于考试"
 [[sections.items]]
 content = "成绩构成：作业 40%，期末考试 60%。"
 author = { name = "", link = "", date = "" }
-
 
 [[sections]]
 title = "资料说明"
